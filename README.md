@@ -1,4 +1,4 @@
-# Real-Estate-Price_Prediction
+# Real-Estate-Price-Prediction
 Project Structure
 
 The project on Predicting Real Estate Prices is divided into following tasks:
